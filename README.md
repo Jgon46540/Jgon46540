@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jgon46540
 - 👀 I’m interested in Learning to code
-- 🌱 I’m currently learning how to create a website with ccs 
+- 🌱 I’m currently learning how to create a website with css 
 - I’m looking to get all the help i can get 
 - 📫 How to reach me/ jesusgon0115@gmail.com
 looking for tutors for the extra help
